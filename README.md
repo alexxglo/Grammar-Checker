@@ -2,8 +2,8 @@
 
 Nume student: Alexandru Glodeanu 
 
-Nume coordonator: Alexandru Cosmin
-
+Nume coordonator: Cosmin Alexandru
+ 
 Nume proiect: Verificare generare cuvant pentru o gramatica regulata
 
 Input: O gramatica regulata oarecare si o lista de cuvinte
