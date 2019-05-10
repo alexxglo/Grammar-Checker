@@ -1,0 +1,4 @@
+D:\Downloads\CLion-2017.3.4\bin\cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" D:\LFATWO
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/LFATWO/cmake-build-debug

@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/LFATWO/grammar.cpp
+iostream
+-
+fstream
+-
+cstring
+-
+string
+-
+grammar.h
+D:/LFATWO/grammar.h
+
+D:/LFATWO/grammar.h
+iostream
+-
+fstream
+-
+cstring
+-
+string
+-
+
+D:/LFATWO/main.cpp
+iostream
+-
+fstream
+-
+cstring
+-
+string
+-
+grammar.h
+D:/LFATWO/grammar.h
+
